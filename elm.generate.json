@@ -1,0 +1,16 @@
+{
+  "packageManager": "bun",
+  "src": "src/app",
+  "js": "src",
+  "app": {
+    "pages": {
+      "Home": "/"
+    }
+  },
+  "assets": {
+    "Assets": {
+      "src": "./public",
+      "onServer": "assets"
+    }
+  }
+}
